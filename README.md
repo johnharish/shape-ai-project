@@ -1,2 +1,2 @@
-# shape-ai-project
+#miniproject
 weather report code
